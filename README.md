@@ -6,6 +6,7 @@ A clean and responsive sidebar menu built using HTML and CSS only. This mini pro
 
 ## 📸 Live Preview
 
+https://css-mini-project-1.netlify.app/
 
 ---
 
